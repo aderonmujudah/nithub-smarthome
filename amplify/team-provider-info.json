@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nithubsmarthome-dev-c2fbd-authRole",
+      "UnauthRoleArn": "arn:aws:iam::533267053706:role/amplify-nithubsmarthome-dev-c2fbd-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::533267053706:role/amplify-nithubsmarthome-dev-c2fbd-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-nithubsmarthome-dev-c2fbd-deployment",
+      "UnauthRoleName": "amplify-nithubsmarthome-dev-c2fbd-unauthRole",
+      "StackName": "amplify-nithubsmarthome-dev-c2fbd",
+      "StackId": "arn:aws:cloudformation:us-east-1:533267053706:stack/amplify-nithubsmarthome-dev-c2fbd/0d7a8d70-1e7f-11ef-8769-0eaffe18ef19",
+      "AmplifyAppId": "d2vkqu0bv8wea5"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2vkqu0bv8wea5",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
