@@ -19,5 +19,26 @@
         }
       }
     }
+  },
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nithubsmarthome-staging-0441f-authRole",
+      "UnauthRoleArn": "arn:aws:iam::533267053706:role/amplify-nithubsmarthome-staging-0441f-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::533267053706:role/amplify-nithubsmarthome-staging-0441f-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-nithubsmarthome-staging-0441f-deployment",
+      "UnauthRoleName": "amplify-nithubsmarthome-staging-0441f-unauthRole",
+      "StackName": "amplify-nithubsmarthome-staging-0441f",
+      "StackId": "arn:aws:cloudformation:us-east-1:533267053706:stack/amplify-nithubsmarthome-staging-0441f/7150ea90-1ffd-11ef-9eb3-125e9a0fc5e5",
+      "AmplifyAppId": "d2vkqu0bv8wea5"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2vkqu0bv8wea5",
+          "type": "manual"
+        }
+      }
+    }
   }
 }
