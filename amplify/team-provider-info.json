@@ -41,6 +41,9 @@
       },
       "auth": {
         "nithubsmarthome45d888b8": {}
+      },
+      "api": {
+        "nithubsmarthome": {}
       }
     }
   }

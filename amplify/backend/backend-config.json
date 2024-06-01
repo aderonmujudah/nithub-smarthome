@@ -1,4 +1,24 @@
 {
+  "api": {
+    "nithubsmarthome": {
+      "dependsOn": [],
+      "output": {
+        "authConfig": {
+          "additionalAuthenticationProviders": [],
+          "defaultAuthentication": {
+            "apiKeyConfig": {
+              "apiKeyExpirationDate": "2024-06-08T18:42:49.045Z",
+              "apiKeyExpirationDays": 7,
+              "description": "Development API key for nithubsmarthome"
+            },
+            "authenticationType": "API_KEY"
+          }
+        }
+      },
+      "providerPlugin": "awscloudformation",
+      "service": "AppSync"
+    }
+  },
   "auth": {
     "nithubsmarthome45d888b8": {
       "customAuth": false,
