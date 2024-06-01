@@ -38,6 +38,9 @@
           "appId": "d2vkqu0bv8wea5",
           "type": "manual"
         }
+      },
+      "auth": {
+        "nithubsmarthome45d888b8": {}
       }
     }
   }
